@@ -1,0 +1,19 @@
+{
+  "name": "tizen-iptv",
+  "version": "0.1.0",
+  "description": "M3U/M3U8 IPTV player module for TizenBrew",
+  "author": "HugEau",
+  "license": "MIT",
+  "keywords": [
+    "tizen",
+    "tizenbrew",
+    "iptv",
+    "m3u",
+    "m3u8"
+  ],
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs"
+}
