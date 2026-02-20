@@ -1,6 +1,6 @@
 {
   "name": "tizen-iptv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "M3U/M3U8 IPTV player module for TizenBrew",
   "author": "HugEau",
   "license": "MIT",
